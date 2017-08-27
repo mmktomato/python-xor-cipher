@@ -11,6 +11,6 @@ or
 $ python3 xor.py <infile> <outfile> --key <password>
 ```
 
-* /infile/ is a file path to be encrypted.
-* /outfile/ is a encrypted file path.
-* /password/ is a encryption password.
+* _infile_ is a file path to be encrypted.
+* _outfile_ is a encrypted file path.
+* _password_ is a encryption password.
